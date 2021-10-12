@@ -1,0 +1,7 @@
+runtime: python37 
+ 
+env_variables:
+  CLOUD_SQL_USERNAME: CainBurt
+  CLOUD_SQL_PASSWORD: Password123
+  CLOUD_SQL_DATABASE_NAME: musiclist
+  CLOUD_SQL_CONNECTION_NAME: ad-lab02:europe-west2:lab3
